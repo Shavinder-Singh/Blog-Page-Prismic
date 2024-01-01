@@ -1,0 +1,27 @@
+{
+  "id": "articleoneslice",
+  "type": "SharedSlice",
+  "name": "Articleoneslice",
+  "description": "Articleoneslice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {
+        "articlesliceimage": {
+          "type": "Image",
+          "config": {
+            "label": "article1sliceimage",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      }
+    }
+  ]
+}

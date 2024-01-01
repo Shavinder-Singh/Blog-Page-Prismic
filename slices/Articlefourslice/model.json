@@ -1,0 +1,27 @@
+{
+  "id": "articlefourslice",
+  "type": "SharedSlice",
+  "name": "Articlefourslice",
+  "description": "Articlefourslice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {
+        "article4image": {
+          "type": "Image",
+          "config": {
+            "label": "article4image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "article3",
+  "label": "article3",
+  "format": "custom",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "article3id",
+          "placeholder": ""
+        }
+      },
+      "article2title": {
+        "type": "Text",
+        "config": {
+          "label": "article2title",
+          "placeholder": ""
+        }
+      },
+      "article3date": {
+        "type": "Date",
+        "config": {
+          "label": "article3date",
+          "placeholder": ""
+        }
+      },
+      "arrticle3text": {
+        "type": "Text",
+        "config": {
+          "label": "arrticle3text",
+          "placeholder": ""
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "articlethreeslice": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "trendingthree_slice",
+  "type": "SharedSlice",
+  "name": "TrendingthreeSlice",
+  "description": "TrendingthreeSlice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "trending3title": {
+          "type": "Text",
+          "config": {
+            "label": "trending3title",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "trending3list1": {
+          "type": "Text",
+          "config": {
+            "label": "trending3list1",
+            "placeholder": ""
+          }
+        },
+        "trending3list2": {
+          "type": "Text",
+          "config": {
+            "label": "trending3list2",
+            "placeholder": ""
+          }
+        },
+        "trending3list3": {
+          "type": "Text",
+          "config": {
+            "label": "trending3list3",
+            "placeholder": ""
+          }
+        }
+      }
+    }
+  ]
+}

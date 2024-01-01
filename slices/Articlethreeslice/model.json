@@ -1,0 +1,27 @@
+{
+  "id": "articlethreeslice",
+  "type": "SharedSlice",
+  "name": "Articlethreeslice",
+  "description": "Articlethreeslice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {
+        "artcile3imageslice": {
+          "type": "Image",
+          "config": {
+            "label": "artcile3imageslice",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      }
+    }
+  ]
+}

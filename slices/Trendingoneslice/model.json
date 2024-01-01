@@ -1,0 +1,48 @@
+{
+  "id": "trendingoneslice",
+  "type": "SharedSlice",
+  "name": "Trendingoneslice",
+  "description": "Trendingoneslice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "trendind1title": {
+          "type": "Text",
+          "config": {
+            "label": "trendind1title",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "trending1list2": {
+          "type": "Text",
+          "config": {
+            "label": "trending1list2",
+            "placeholder": ""
+          }
+        },
+        "trending1list1": {
+          "type": "Text",
+          "config": {
+            "label": "trending1list1",
+            "placeholder": ""
+          }
+        },
+        "trending1list3": {
+          "type": "Text",
+          "config": {
+            "label": "trending1list3",
+            "placeholder": ""
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "trendingfourslice",
+  "type": "SharedSlice",
+  "name": "Trendingfourslice",
+  "description": "Trendingfourslice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "trending4title": {
+          "type": "Text",
+          "config": {
+            "label": "trending4title",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "trending4list1": {
+          "type": "Text",
+          "config": {
+            "label": "trending4list1",
+            "placeholder": ""
+          }
+        },
+        "trending4list2": {
+          "type": "Text",
+          "config": {
+            "label": "trending4list2",
+            "placeholder": ""
+          }
+        },
+        "trending4list3": {
+          "type": "Text",
+          "config": {
+            "label": "trending4list3",
+            "placeholder": ""
+          }
+        }
+      }
+    }
+  ]
+}

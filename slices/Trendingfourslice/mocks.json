@@ -1,0 +1,44 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"trending4title": {
+				"__TYPE__": "FieldContent",
+				"value": "draw",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"trending4list1",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "swam",
+							"type": "Text"
+						}
+					],
+					[
+						"trending4list2",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "fly",
+							"type": "Text"
+						}
+					],
+					[
+						"trending4list3",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "block",
+							"type": "Text"
+						}
+					]
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,27 @@
+{
+  "id": "articletwoslice",
+  "type": "SharedSlice",
+  "name": "Articletwoslice",
+  "description": "Articletwoslice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {
+        "article2sliceimage": {
+          "type": "Image",
+          "config": {
+            "label": "article2sliceimage",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      }
+    }
+  ]
+}

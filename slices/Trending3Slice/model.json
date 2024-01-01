@@ -1,0 +1,16 @@
+{
+  "id": "trending3_slice",
+  "type": "SharedSlice",
+  "name": "Trending3Slice",
+  "description": "Trending3Slice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": ""
+    }
+  ]
+}

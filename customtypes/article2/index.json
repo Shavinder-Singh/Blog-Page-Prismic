@@ -1,0 +1,50 @@
+{
+  "id": "article2",
+  "label": "article2",
+  "format": "custom",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "article2",
+          "placeholder": ""
+        }
+      },
+      "article2title": {
+        "type": "Text",
+        "config": {
+          "label": "article2title",
+          "placeholder": ""
+        }
+      },
+      "article2date": {
+        "type": "Date",
+        "config": {
+          "label": "article2date",
+          "placeholder": ""
+        }
+      },
+      "article2text": {
+        "type": "Text",
+        "config": {
+          "label": "article2text",
+          "placeholder": ""
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "articletwoslice": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

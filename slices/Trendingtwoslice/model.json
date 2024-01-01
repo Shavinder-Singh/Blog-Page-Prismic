@@ -1,0 +1,48 @@
+{
+  "id": "trendingtwoslice",
+  "type": "SharedSlice",
+  "name": "Trendingtwoslice",
+  "description": "Trendingtwoslice",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "trending2title": {
+          "type": "Text",
+          "config": {
+            "label": "trending2title",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "trending2list1": {
+          "type": "Text",
+          "config": {
+            "label": "trending2list1",
+            "placeholder": ""
+          }
+        },
+        "trending2list2": {
+          "type": "Text",
+          "config": {
+            "label": "trending2list2",
+            "placeholder": ""
+          }
+        },
+        "trending2list3": {
+          "type": "Text",
+          "config": {
+            "label": "trending2list3",
+            "placeholder": ""
+          }
+        }
+      }
+    }
+  ]
+}

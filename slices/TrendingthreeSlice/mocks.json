@@ -1,0 +1,44 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"trending3title": {
+				"__TYPE__": "FieldContent",
+				"value": "fell",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"trending3list1",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "fear",
+							"type": "Text"
+						}
+					],
+					[
+						"trending3list2",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "wire",
+							"type": "Text"
+						}
+					],
+					[
+						"trending3list3",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "congress",
+							"type": "Text"
+						}
+					]
+				]
+			}
+		]
+	}
+]
